@@ -3,7 +3,7 @@ using Dash
 app = dash()
 
 app.layout = html_div() do
-    html_h1("hello u")
+    html_h1("hello us")
     
 end
 
